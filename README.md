@@ -1,10 +1,11 @@
 # Airbnb-LinearReg-SVM-DT-RF-modelling-and-prediction-in-Python
-Airbnb price prediction models in python with linear regression, SVM, Decision Tree, and Random Forest.
-
-This project aims to build a model that taken different airbnb's attributes such as bedrooms, location, house type, and others, to predict an optimal price which isn't too expensive that it drives guests away to other properties, or too cheap that it is not profitable to the host.
+Airbnb price prediction models in python with linear regression, SVM, Decision Tree, and Random Forest algorithms, and MSE, RSME, learning curve evalution matrics.
 
 
-1. Summary: This analysis shows details step and coding of how to build such a prediction model from beginning to end. 
+This project aimed to build a model that taken different airbnb's attributes such as bedrooms, location, house type, and others, to predict an optimal price which isn't too expensive that it drives guests away to other properties, or too cheap that it is not profitable to the host.
+
+
+1. Summary: This analysis includes details step and coding of how to build such a prediction model from beginning to end. 
           1.1 First, the data is examined to gain both an overview and an in-depth understanding of the dataset. 
           1.2 Then, the business problem is framed.
           1.3 followed by data cleaning and visualization.
