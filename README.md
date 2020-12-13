@@ -6,11 +6,11 @@ This project aimed to build a model that taken different airbnb's attributes suc
 
 
 1. Summary: This analysis includes details step and coding of how to build such a prediction model from beginning to end. 
-          1.1 First, the data is examined to gain both an overview and an in-depth understanding of the dataset. 
-          1.2 Then, the business problem is framed.
-          1.3 followed by data cleaning and visualization.
-          1.4 Next step is building and validating models. 
-          1.5 The best model selection and final evaluation.
+	1.1 First, the data is examined to gain both an overview and an in-depth understanding of the dataset. 
+	1.2 Then, the business problem is framed.
+	1.3 followed by data cleaning and visualization.
+	1.4 Next step is building and validating models. 
+	1.5 The best model selection and final evaluation.
 
 2. Tool : Python (numpy, pandas, matplotlib, sklearn)
 
